@@ -1,0 +1,3 @@
+LangGraph is a framework for building stateful, multi-agent applications. 
+It allows developers to design workflows with nodes and edges, making it easier 
+to orchestrate complex RAG pipelines.
